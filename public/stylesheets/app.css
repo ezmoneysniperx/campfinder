@@ -1,0 +1,28 @@
+
+#cluster-map {
+    width: 100%; 
+    height:500px;
+    margin-top: 0;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+.navbar-brand{
+    font-family: 'Sriracha', cursive;
+}
+
+.img-display{
+    width: 400px;
+    height: 200px;
+}
+
+.btn-navbar{
+    margin-left: 10px;
+}
+
+.search-bar-title {
+    background: rgba(179, 181, 179, 0.3) /* Green background with 30% opacity */
+}
