@@ -36,8 +36,7 @@
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/)
 2. Create a cloudinary account to get an API key and secret code
-
-Create a .env file in the root of the project and add the following:  
+3. Create a .env file in the root of the project and add the following:  
 
 ```
 DATABASEURL='<url>'
@@ -45,9 +44,8 @@ API_KEY='<cloudinary api key>'
 API_SECRET='<cloudinary secret key>'
 ```
 
-Run ```mongod``` in another terminal and ```node app.js``` in the terminal with the project.  
-
-Then go to [localhost:3000](http://localhost:3000/).
+4. Run ```mongod``` in another terminal and ```node app.js``` in the terminal with the project.  
+5. Then go to [localhost:3000](http://localhost:3000/).
 
 
 
