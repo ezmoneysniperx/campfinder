@@ -5,9 +5,7 @@
   <h3 align="center">CampFinder</h3>
 
 <p align="center">
-    CampFinder is a full-stack web application where users can create a campground listing and review a campgrounds. In order to review or create a campground listing, users must have an account.
-
-    This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
+    CampFinder is a full-stack web application where users can create a campground listing and review a campgrounds. In order to review or create a campground listing,     users must have an account. This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
     <br/>
     <br/>
     <a href="https://github.com/ezmoneysniperx/campfinder/issues">Report Bug</a>
